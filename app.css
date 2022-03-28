@@ -67,5 +67,7 @@ li {
 }
 a, .footer{
   text-align:center;
+  display:block;
+  margin:0 auto;
   font-size:13px;
 }
