@@ -65,9 +65,10 @@ li {
   color: rgb(33, 136, 56);
   background: white;
 }
-a{
-  text-align:center;
-  display:block;
-  margin:0 auto;
-  font-size:13px;
+.footer{
+margin-top: 0.5cm;
+    text-align: center;
+    margin-right: 10cm;
+    font-size: 10px;
+    margin-left: 20px;
 }
